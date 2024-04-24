@@ -1,0 +1,82 @@
+.container {
+    width: 250px;
+    margin: 20px 20px;
+    padding: 35px;
+    outline: 5px solid red;
+    background-color: rgb(235, 235, 253);
+}
+
+.iner {
+    color: rgb(229, 12, 12);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(214, 211, 211);
+    padding: 25px;
+    border: 5px solid red;
+    text-align: center;
+
+}
+
+.text {
+    color: white;
+    width: 270px;
+    margin: 20px 15px;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    font-family: "Platypi", serif ;  
+    border-bottom: 25px rgb(119, 63, 119) solid;
+    border-radius: 8px;
+    background-color: purple;
+
+}
+.outer {
+margin-top: 5%;
+}
+.one {
+    background-color: rgb(192, 189, 189);
+    text-align: center;
+    font-weight: 550;
+    border: 11px red solid;
+    outline: 11px black solid;
+    margin: 30px;
+    padding: 30px;
+}
+
+.two {
+    background-color: rgb(192, 189, 189);
+    text-align: center;
+    font-weight: 550;
+    border-color: blue green;
+    border-width: 11px;
+    border-style: solid;
+    outline: 11px black solid;
+    margin: 30px;
+    padding: 30px;
+
+}
+
+.three {
+    background-color: rgb(192, 189, 189);
+    text-align: center;
+    font-weight: 550;
+    border-color: red green blue yellow;
+    border-width: 11px;
+    border-style: dashed;
+    outline: 11px black solid;
+    margin: 30px;
+    padding: 30px;
+}
+.NOTe {
+color: black;
+font-weight: bold;
+font-size: large;
+background-color: rgb(222, 218, 218);
+margin: 8px 20px;
+margin-top: 8%;
+padding: 15px;
+width: 30%;
+border-left:10px rgb(0, 217, 255) solid;
+outline: 15px solid  rgb(222, 218, 218) ;
+}
